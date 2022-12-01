@@ -9,7 +9,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table(name = "laptop")
+@Table(name = "phone")
 @Data
 @Getter
 @Setter
